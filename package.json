@@ -1,0 +1,17 @@
+{
+  "name": "tarea1_mariajose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tarea1.js",
+  "dependencies": {
+    "js": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "author": "",
+  "license": "ISC"
+ 
+}
